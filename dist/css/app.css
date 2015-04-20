@@ -1,0 +1,35 @@
+.navbar-default .navbar-brand{
+    color: #337ab7;
+}
+
+.titlehms{
+    color: #337ab7;
+
+}
+.page-header {
+    border-bottom: 1px solid #eee;
+    margin: 8px 0 20px;
+    padding-bottom: 9px;
+}
+#lblmsg
+{
+    color: #ff1837;
+}
+
+
+.padding-left5
+{
+    padding-left: 5px;
+}
+.perPhoto
+{
+    height: 80px;
+    width: 80px;
+}
+.proimg
+{
+    height: 220px;
+}
+.margin-to-5{
+    margin-top: 5px;
+}
