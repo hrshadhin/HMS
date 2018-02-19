@@ -1,3 +1,7 @@
+:warning:
+ This project code is old. Its use [mysql](https://github.com/hrshadhin/Hostel-Management-System-HMS-/blob/master/inc/dbPlayer.php)
+ lib and that was deprecated.Please use mysqli.For help visit this link https://stackoverflow.com/questions/1390607/how-to-change-mysql-to-mysqli 
+
 # Hostel-Management-System-HMS-
 Simple Hostel Management Web Application build with PHP.
 Its Just a Student Project.Here have some little bit security bugs.
